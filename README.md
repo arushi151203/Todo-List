@@ -1,6 +1,6 @@
-Set-Content README.md "# ✅ To-Do List App
+# ✅ To-Do List App
 
-A full-stack To-Do List application built during my internship at **Aegis Jobs Pvt. Ltd., Jaipur**. It allows users to add, complete, and delete tasks with a clean and responsive UI.
+A full-stack To-Do List application built during my internship at **Uptoskills**. It allows users to add, complete, and delete tasks with a clean and responsive UI.
 
 ## 📌 Features
 
