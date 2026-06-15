@@ -20,7 +20,7 @@ A full-stack To-Do List application built during my internship at **Uptoskills**
 
 ## 📁 Project Structure
 
-\`\`\`
+```
 to-do-list/
 ├── frontend/         # React frontend
 │   ├── src/
@@ -29,48 +29,48 @@ to-do-list/
 │   ├── routes/
 │   ├── db.js
 │   └── server.js
-\`\`\`
+```
 
 ## ⚙️ Getting Started
 
 ### Installation
 
 1. Clone the repository
-   \`\`\`bash
+   ```bash
    git clone https://github.com/arushi151203/Todo-List.git
    cd Todo-List
-   \`\`\`
+   ```
 
 2. Install frontend dependencies
-   \`\`\`bash
+   ```bash
    cd frontend
    npm install
-   \`\`\`
+   ```
 
 3. Install backend dependencies
-   \`\`\`bash
+   ```bash
    cd backend
    npm install
-   \`\`\`
+   ```
 
 4. Create \`backend/.env\` with your DB credentials:
-   \`\`\`env
+   ```env
    DB_HOST=localhost
    DB_PORT=5432
    DB_USER=your_db_user
    DB_PASSWORD=your_db_password
    DB_NAME=your_db_name
-   \`\`\`
+   ```
 
 5. Run backend
-   \`\`\`bash
+   ```bash
    node server.js
-   \`\`\`
+   ```
 
 6. Run frontend
-   \`\`\`bash
+   ```bash
    npm run dev
-   \`\`\`
+   ```
 
 ## 🙋‍♀️ Author
 **Arushi** — Intern at Uptoskills"
